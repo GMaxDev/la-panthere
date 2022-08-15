@@ -703,6 +703,8 @@ p, q{
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    color:  rgb(80, 48, 48) !important;
+
 }
 
 h2 {
@@ -737,7 +739,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: rgb(80, 48, 48) !important;
 }
 
 .portfolio-thumb {
@@ -781,7 +783,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: rgb(80, 48, 48)!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1031,6 +1033,10 @@ h4 {
 
 .citation{
     font-weight: bold;
+}
+
+.access_coul{
+    color: rgb(80, 48, 48) !important;
 }
 
 @media (max-width: 400px) {
